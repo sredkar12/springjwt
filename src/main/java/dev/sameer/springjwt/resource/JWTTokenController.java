@@ -1,4 +1,4 @@
-package dev.sameer.springjwt;
+package dev.sameer.springjwt.resource;
 
 
 import dev.sameer.springjwt.dto.JwtTokenDTO;

@@ -1,4 +1,4 @@
-package dev.sameer.springjwt;
+package dev.sameer.springjwt.security;
 
 import com.fasterxml.jackson.databind.deser.std.UUIDDeserializer;
 import com.nimbusds.jose.JOSEException;
